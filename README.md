@@ -127,8 +127,14 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
+
+
 ![Alt text](img/1.png)
+
+
 $ ipcs
+
+
 ![Alt text](img/2.png)
 
 
